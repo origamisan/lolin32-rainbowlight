@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <FastLED.h>
 #include "constants.h"
-
+#include "network_credentials.h"
 
 
 // Define the array of leds
